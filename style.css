@@ -104,6 +104,10 @@
 /*for smartphones*/
 
 @media only screen and (max-width:600px) {
+    body
+    {
+overflow:hidden;
+    }
     .content{
         width: 100%;
         height: 100vh;
